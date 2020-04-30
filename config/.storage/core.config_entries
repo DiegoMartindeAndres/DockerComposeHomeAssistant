@@ -1,0 +1,42 @@
+{
+    "data": {
+        "entries": [
+            {
+                "connection_class": "cloud_poll",
+                "data": {
+                    "track_home": true
+                },
+                "domain": "met",
+                "entry_id": "2418d0d8c3774af680a468746a229698",
+                "options": {},
+                "source": "onboarding",
+                "system_options": {
+                    "disable_new_entities": false
+                },
+                "title": "Home",
+                "unique_id": null,
+                "version": 1
+            },
+            {
+                "connection_class": "cloud_poll",
+                "data": {
+                    "id": "David Higuera",
+                    "password": "Palomahermana1997#1",
+                    "username": "david.higuera.ferrez@gmail.com"
+                },
+                "domain": "garmin_connect",
+                "entry_id": "4777dfeebcc14065851a89cb2f9b748e",
+                "options": {},
+                "source": "user",
+                "system_options": {
+                    "disable_new_entities": false
+                },
+                "title": "David Higuera",
+                "unique_id": "David Higuera",
+                "version": 1
+            }
+        ]
+    },
+    "key": "core.config_entries",
+    "version": 1
+}

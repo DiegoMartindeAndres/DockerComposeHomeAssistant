@@ -1,0 +1,28 @@
+{
+    "data": {
+        "devices": [
+            {
+                "area_id": "7a14e1f8f347461ea845a7a659baceba",
+                "config_entries": [
+                    "4777dfeebcc14065851a89cb2f9b748e"
+                ],
+                "connections": [],
+                "id": "bc44a30f4ac6478c8f0da5f42586c859",
+                "identifiers": [
+                    [
+                        "garmin_connect",
+                        "David Higuera"
+                    ]
+                ],
+                "manufacturer": "Garmin Connect",
+                "model": null,
+                "name": "Garmin Connect",
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            }
+        ]
+    },
+    "key": "core.device_registry",
+    "version": 1
+}

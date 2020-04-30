@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "last_seen": "2020-04-12T18:37:05.882312+00:00",
+            "state": {
+                "attributes": {
+                    "editable": true,
+                    "friendly_name": "David",
+                    "id": "david",
+                    "user_id": "ef353747af7040358790e776f8a29c2e"
+                },
+                "context": {
+                    "id": "7bfb8092305f4f48860835b27ba01982",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "person.david",
+                "last_changed": "2020-04-12T18:28:23.934808+00:00",
+                "last_updated": "2020-04-12T18:28:29.432352+00:00",
+                "state": "unknown"
+            }
+        }
+    ],
+    "key": "core.restore_state",
+    "version": 1
+}

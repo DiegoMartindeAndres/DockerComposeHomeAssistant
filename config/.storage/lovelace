@@ -1,0 +1,81 @@
+{
+    "data": {
+        "config": {
+            "title": "Casa",
+            "views": [
+                {
+                    "badges": [
+                        {
+                            "entity": "binary_sensor.updater"
+                        },
+                        {
+                            "entity": "person.david"
+                        },
+                        {
+                            "entity": "sun.sun"
+                        }
+                    ],
+                    "cards": [
+                        {
+                            "entities": [
+                                "sensor.active_kilocalories",
+                                "sensor.total_distance_mtr",
+                                "sensor.floors_ascended",
+                                "sensor.rest_stress_duration",
+                                "sensor.total_kilocalories",
+                                "sensor.floors_descended",
+                                "sensor.activity_stress_duration",
+                                "sensor.floors_ascended_goal",
+                                "sensor.uncat_stress_duration",
+                                "sensor.total_steps",
+                                "sensor.min_heart_rate",
+                                "sensor.total_stress_duration",
+                                "sensor.body_battery_charged",
+                                "sensor.max_heart_rate",
+                                "sensor.body_battery_drained",
+                                "sensor.low_stress_duration",
+                                "sensor.resting_heart_rate",
+                                "sensor.body_battery_highest",
+                                "sensor.medium_stress_duration",
+                                "sensor.daily_step_goal",
+                                "sensor.high_stress_duration",
+                                "sensor.body_battery_lowest",
+                                "sensor.bmr_kilocalories",
+                                "sensor.active_time",
+                                "sensor.body_battery_most_recent",
+                                "sensor.sedentary_time",
+                                "sensor.average_spo2",
+                                "sensor.burned_kilocalories",
+                                "sensor.sleeping_time",
+                                "sensor.lowest_spo2",
+                                "sensor.avg_stress_level",
+                                "sensor.awake_duration",
+                                "sensor.latest_spo2",
+                                "sensor.max_stress_level",
+                                "sensor.sleep_duration"
+                            ],
+                            "title": "Dormitorio",
+                            "type": "entities"
+                        },
+                        {
+                            "entity": "weather.casa",
+                            "type": "weather-forecast"
+                        },
+                        {
+                            "entities": [
+                                "sensor.active_kilocalories",
+                                "sensor.total_distance_mtr",
+                                "sensor.floors_ascended"
+                            ],
+                            "type": "glance"
+                        }
+                    ],
+                    "path": "default_view",
+                    "title": "Home"
+                }
+            ]
+        }
+    },
+    "key": "lovelace",
+    "version": 1
+}
